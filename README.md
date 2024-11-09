@@ -1,5 +1,5 @@
 # Boat-Sales-analysis
-
+![logo](https://github.com/rachit7217/Boat-Sales-analysis/blob/main/Dashboard%206%20boAt%20sales%20.png)
 **Project Summary: Boat Sales Analysis Dashboard**
 
 The Boat Sales Analysis project aims to create an interactive Power BI dashboard to visualize and analyze sales data from an Excel spreadsheet and a SQL database. The primary goal is to gain insights into sales performance, customer preferences, and inventory management, enabling stakeholders to make data-driven decisions.
